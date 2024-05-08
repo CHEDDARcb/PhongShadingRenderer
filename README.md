@@ -1,4 +1,4 @@
-# PhongShadingRenderer
+# PhongShadingRenderer
 ## YouTube
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YdqxJ3snf0I/0.jpg)](https://www.youtube.com/watch?v=YdqxJ3snf0I)
 
