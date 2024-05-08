@@ -1,7 +1,7 @@
 # MyRender
 ## YouTube
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QAILZ3XrHwk/0.jpg)](https://www.youtube.com/watch?v=QAILZ3XrHwk)
-***
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YdqxJ3snf0I/0.jpg)](https://www.youtube.com/watch?v=YdqxJ3snf0I)
+
 ## Note
 <img width="100%" src="https://github.com/CHEDDARcb/MyRender/assets/114633645/1bdf484d-17d2-49f9-b710-ad645da34fd1"/>
  
