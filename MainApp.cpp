@@ -42,9 +42,8 @@ bool MainApp::Initialize() {
     // GLTF 샘플 모델들
     // https://github.com/KhronosGroup/glTF-Sample-Models
 
-     auto meshes = GeometryGenerator::ReadFromFile(
-         ".//DamagedHelmet/glTF/",
-         "DamagedHelmet.gltf");
+     auto meshes = GeometryGenerator::ReadFromFile(".//DamagedHelmet/glTF/",
+                                                  "DamagedHelmet.gltf");
 
     // auto meshes =
     //     GeometryGenerator::ReadFromFile("D:/glTF-Sample-Models/2.0/ABeautifulGame/glTF/",
